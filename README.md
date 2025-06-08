@@ -98,6 +98,5 @@ lib/
 - `connectivity_plus`: Verificação de conexão
 - `intl`: Formatação de valores monetários
 
-"# AtividadeFlutter" 
-"# AtividadeFlutter" 
+ 
 #
